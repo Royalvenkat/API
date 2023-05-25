@@ -5,9 +5,9 @@
 
 // Syntax /pattern/modifiers
 // ex:-/searchname/i(i Stands for Case insensitive)
-//  let str ="Venkat Sai";
-//  let resu=str.search(/sai/i);
-//  console.log(resu);
+ let str ="Venkat Sai";
+ let resu=str.search(/sai/i);
+ console.log(resu);
 
 //  oupput //It gives the Index value
 
